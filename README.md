@@ -1,2 +1,1 @@
-# Kuangyu Jing
-
+# Featured Projects
