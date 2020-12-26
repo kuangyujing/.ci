@@ -1,7 +1,3 @@
-### Taskboard
-
-Superb Kanban for Github Projects (Inprogress)
-
 ### dracula-xfce4-terminal
 
 Dark theme for Xfce4 Terminal
