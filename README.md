@@ -1,8 +1,8 @@
 ## Top Projects
 
-### [dracula-xfce4-terminal](https://github.com/kuangyujing/dracula-xfce4-terminal)
+### [xfce4-terminal](https://github.com/dracula/xfce4-terminal)
 
-Dark theme for Xfce4 Terminal
+Dark theme for xfce4-terminal
 
 ### [html5.vim](https://github.com/kuangyujing/html5.vim)
 
