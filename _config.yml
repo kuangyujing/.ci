@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: kitian616/jekyll-TeXt-theme
 title: Kuangyu Jing
 show_downloads: false
 github:
