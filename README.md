@@ -1,5 +1,3 @@
-## Top Projects
-
 ### [xfce4-terminal](https://github.com/dracula/xfce4-terminal)
 
 Dark theme for xfce4-terminal
